@@ -1,0 +1,130 @@
+h1{
+    text-align: center;
+    font-family: Brush Script MT;
+}
+
+#listaDanos{
+    color: white;
+}
+
+.abaixo {
+position: relative;
+display: inline-block;
+padding: 24px;
+padding-right: unset;
+}
+
+.abaixo img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay-text{
+    color: orange;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#divRegras{
+    text-align: center;
+}
+
+#divArmas{
+width: 23.2%;
+margin: auto;
+background-color: hwb(180 72% 27%);
+opacity: 96%;
+}
+
+/*Estilização dos itens*/
+#colt{
+    height: 50px;
+}
+
+#remington{
+    height: 120px;
+}
+
+#lemat{
+    height: 100px;
+}
+
+#winchester{
+    height: 100px;
+}
+
+#spring{
+    height: 130px;
+}
+
+#buffalo{
+    height: 80px;
+}
+
+#shotgun{
+    height: 100px;
+}
+
+#sniper{
+    height: 80px;
+}
+
+#danosbody{
+    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#armasBody{
+    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#armasBody h1{
+    color: white;
+}
+
+#regrasbody{
+    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#regrasbody{
+    color: rgb(242, 192, 101);
+}
+
+#cidadebody{
+    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#indexbody{
+    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#indexbody h1{
+    color: white;
+}
+
+#frase{
+    color: orange;
+    
+}
