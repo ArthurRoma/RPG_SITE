@@ -15,8 +15,8 @@ function clique(){
 }
 
 function voltar(){
-    const voltarfile = "index.html";
-    return window.location.href = voltarfile;
+    // const voltarfile = "index.html";
+    return window.location.href = "index.html";
 }
 
 
