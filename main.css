@@ -78,7 +78,7 @@ opacity: 96%;
 }
 
 #danosbody{
-    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("./imgs/wallpaperflare.com_wallpaper.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -86,7 +86,7 @@ opacity: 96%;
 }
 
 #armasBody{
-    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("./imgs/wallpaperflare.com_wallpaper.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -97,7 +97,7 @@ opacity: 96%;
 }
 
 #regrasbody{
-    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("./imgs/wallpaperflare.com_wallpaper.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -108,14 +108,14 @@ opacity: 96%;
 }
 
 #cidadebody{
-    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("./imgs/wallpaperflare.com_wallpaper.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #indexbody{
-    background-image: url("/imgs/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("./imgs/wallpaperflare.com_wallpaper.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
